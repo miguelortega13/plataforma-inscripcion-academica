@@ -9,4 +9,4 @@ Este proyecto propone una plataforma de inscripción y promoción de actividades
 2. Sistema de inscripción en línea para que los estudiantes reserven su participación.
 3. Panel de administración para que los clubes y organizadores gestionen eventos, inscripciones y envíen notificaciones. 
 
-# Clonar Repositorio
+### Clonar Repositorio
