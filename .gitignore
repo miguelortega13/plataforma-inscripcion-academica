@@ -1,0 +1,19 @@
+# Dependencias
+node_modules/
+.npm
+
+# Entorno
+.env
+.env.local
+
+# Build
+dist/
+.vite/
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+*.log
